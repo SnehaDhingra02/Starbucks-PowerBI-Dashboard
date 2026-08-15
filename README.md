@@ -15,7 +15,7 @@ The dashboard analyzes sales data to identify trends and patterns across product
 
 ## 📈 Dashboard
 
-![Starbucks Dashboard](Starbucks_dashboard.png)
+![Starbucks Dashboard](./Starbucks_dashboard.png)
 
 ## 🔍 Key Analysis
 
