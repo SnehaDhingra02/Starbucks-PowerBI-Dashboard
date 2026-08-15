@@ -17,10 +17,6 @@ The dashboard analyzes sales data to identify trends and patterns across product
 
 ![Starbucks Dashboard](./Starbucks_dashboard.png)
 
-## 🔍 Key Analysis
-
-The dashboard provides insights into:
-
 ## 🔍 Key Insights
 
 * The dataset contains **33 beverages** with an overall average of **194.30 calories**, **33.02 g of sugar**, and **81 mg of caffeine**.
